@@ -18,6 +18,7 @@ Data Dictionary
 Col Col
  #  Name and Description
 --- -------------------------------------------------------------------------------------------------------------------------------------------
+
 001 Subject_Number: Human subject identifier (1:30)
 002 Activity_Name: One of six activity names (LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, and WALKING_UPSTAIRS)
 003 tBodyAcc-mean()-X_Avg: Average of the time domain body accelerometer mean values - X component
